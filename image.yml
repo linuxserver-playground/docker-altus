@@ -15,6 +15,11 @@ upstream:
   notes:
     type: github_release
     repo: amanharwara/altus
+  sponsor:
+  - name: Altus (GitHub Sponsors)
+    url: https://github.com/sponsors/amanharwara
+  - name: Altus (Ko-fi)
+    url: https://ko-fi.com/amanharwara
 
 release:
   branch: master
